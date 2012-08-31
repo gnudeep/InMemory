@@ -1,4 +1,4 @@
-package $org.myperl.rnd;
+package org.myperl.inmemory;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
